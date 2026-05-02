@@ -106,7 +106,7 @@ All Macrotrends files arrived in `MM/DD/YYYY` and were converted to `YYYY-MM-DD`
 Tested with **Python 3.11**. The fastest path from clone to a running dashboard:
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/Taulant13/agricultural_risk_dashboard.git
 cd agricultural_risk_dashboard
 
 python -m venv .venv
