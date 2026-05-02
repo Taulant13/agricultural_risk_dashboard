@@ -1,0 +1,93 @@
+Event_ID,Event_Name,Start_Date,End_Date,Year_Label,Category,Strength,Affected_Commodities,N_Commodities,Description
+1,1986–87 early-era weather and policy volatility,1986-01-01,1987-12-31,1986-1987,Weather,probable,"Corn, Soybean, Soybean_Oil, Sugar, Lumber",5,Broad early-series weather and Food Security Act 1985 policy transition volatility; individual windows have loose attribution.
+2,1988 North American drought,1988-05-01,1988-10-31,1988,Weather,strong,"Corn, Soybean, Wheat, Soybean_Oil, Sugar, Oats",6,Worst US drought since 1936. Corn crop down ~30%. Visible across all grains and soy complex.
+3,Summer 1991 weather,1991-07-01,1991-08-31,1991,Weather,probable,"Corn, Soybean, Soybean_Oil",3,Summer 1991 US weather volatility.
+4,1993 Mississippi floods,1993-06-01,1993-08-31,1993,Weather,strong,Soybean_Oil,1,Historic Mississippi River floods damaged Midwest crops.
+5,1993–96 Spotted Owl / Clinton Forest Plan,1993-02-01,1996-11-30,1993-1996,Policy/Regulation,strong,Lumber,1,Endangered species ruling restricted Pacific Northwest federal logging; Clinton Forest Plan (1994). Massive supply shock for lumber.
+6,1994 Brazil coffee double frost,1994-05-01,1994-12-31,1994,Weather,strong,Coffee,1,"Double frost of June 25 and July 9, 1994, destroyed ~30% of Brazil coffee crop. Prices doubled."
+7,1994–95 South American crop volatility,1994-12-01,1995-07-31,1994-1995,Weather,probable,Soybean_Oil,1,1994-95 South American soy-complex volatility.
+8,1995 coffee frost aftermath,1995-09-01,1995-09-30,1995,Weather,strong,Coffee,1,Tail end of 1994 frost-driven rally; reduced 1995 output.
+9,1995–96 global wheat stocks crisis,1995-06-01,1996-05-31,1995-1996,Supply/Demand,strong,Wheat,1,World wheat ending stocks at record lows; post-Soviet export dynamics.
+10,1996 tight corn stocks rally,1996-05-01,1996-09-30,1996,Supply/Demand,strong,Corn,1,"Corn ending stocks hit multi-decade lows, driving major price rally."
+11,1997 Brazilian frost scare,1997-05-01,1997-07-31,1997,Weather,strong,Coffee,1,"Brazilian frost scare, June–July 1997."
+12,1997–98 El Niño,1997-12-01,1998-02-28,1997-1998,Weather,probable,Coffee,1,El Niño 1997-98 drought concerns for Brazil and Central America coffee production.
+13,1997 growing-season weather,1997-04-01,1997-09-30,1997,Weather,probable,"Corn, Soybean",2,US grain weather during 1997 planting and growing season; Mississippi Delta concerns.
+14,Summer 1998 weather,1998-06-01,1998-07-31,1998,Weather,strong,Corn,1,Summer 1998 corn weather volatility.
+15,1998 Asian Financial Crisis (lumber),1998-05-01,1998-06-30,1998,Financial/Macro,probable,Lumber,1,Asian Financial Crisis demand effects on lumber.
+16,1999 Eastern Corn Belt drought,1999-07-01,1999-10-31,1999,Weather,probable,"Corn, Soybean",2,1999 Eastern US drought affecting corn and soybeans; also harvest-season volatility.
+17,1999 Brazilian drought coffee rally,1999-10-01,1999-12-31,1999,Weather,strong,Coffee,1,Brazilian drought-driven coffee rally; prices peaked near 80-week high of $2.41.
+18,1999 Brazilian real devaluation,1999-01-01,2000-04-30,1999-2000,Financial/Macro,strong,"Sugar, Soybean_Oil, Soybean",3,January 1999 Brazilian real devaluation crashed sugar price floor; Brazil is the world largest producer. Also affected soy complex via South American export competitiveness.
+19,2000 Brazilian coffee frost scare,2000-07-01,2000-07-31,2000,Weather,probable,Coffee,1,Short-lived Brazilian frost scare within the broader 2000-04 oversupply crisis.
+20,Summer 2000–2001 weather,2000-06-01,2001-07-31,2000-2001,Weather,probable,"Corn, Soybean",2,Summer 2000 and 2001 US grain weather.
+21,2001 Canadian Prairies drought,2001-07-01,2001-08-31,2001,Weather,probable,Oats,1,One of the driest summers on record for the Canadian Prairies; directly affects oats production.
+22,2001–04 Canadian Softwood Lumber dispute,2001-01-01,2004-02-29,2001-2004,Trade/Tariff,strong,Lumber,1,US imposed anti-dumping and countervailing duties on Canadian softwood lumber; major NAFTA trade dispute. SARS effects on housing added in 2003.
+23,2001 Argentina financial/economic crisis,2001-02-01,2002-04-30,2001-2002,Financial/Macro,strong,Soybean_Oil,1,"Argentine economic collapse, peso devaluation, default; affected major soy producer."
+24,9/11 and post-attack shock (lumber),2001-09-07,2001-10-31,2001,Geopolitics,probable,Lumber,1,Post-9/11 economic shock affecting housing and lumber markets.
+25,2001–04 Coffee Price Crisis,2002-04-01,2003-06-30,2002-2003,Supply/Demand,strong,Coffee,1,Coffee prices at 30-year lows; producing countries in economic crisis.
+26,2002 Australian drought,2002-08-01,2003-05-31,2002-2003,Weather,strong,Wheat,1,Record Australian wheat crop loss; ongoing impact through 2003.
+27,2002 US drought,2002-07-01,2002-09-30,2002,Weather,strong,Corn,1,Significant Corn Belt dryness in summer 2002.
+28,2003 harvest weather and global wheat supply,2003-07-01,2003-11-30,2003,Weather,probable,"Corn, Wheat",2,2003 harvest-season weather + continued global wheat supply concerns.
+29,2003–04 Asian Soybean Rust (S.America to USA),2003-06-01,2004-11-30,2003-2004,Disease/Pest,strong,"Soybean, Soybean_Oil",2,Asian Soybean Rust first confirmed in South America (2003) then USA (Nov 2004). Major market-moving pest discovery; drove repeated rallies.
+30,2004 Australian drought continuing,2004-07-01,2004-07-31,2004,Weather,probable,Wheat,1,2004 Australian drought effects on wheat.
+31,Summer 2004 pollination weather (corn),2004-06-01,2004-07-31,2004,Weather,probable,Corn,1,2004 US corn pollination-window weather.
+32,2005 Hurricane Katrina + Rita,2005-08-26,2005-09-30,2005,Weather,strong,Lumber,1,"Hurricane Katrina (Aug 29, 2005) and Rita; rebuilding demand surge for lumber."
+33,2005 Australian drought / world wheat stocks,2005-08-01,2005-10-31,2005,Weather,probable,Wheat,1,2005 Australian drought effects + tight world stocks.
+34,Summer 2005–2006 US grain weather,2005-07-01,2006-07-31,2005-2006,Weather,probable,"Corn, Soybean",2,Summer 2005 and 2006 US grain weather volatility.
+35,2006 Australian drought (worst in 100 years),2006-05-01,2006-10-31,2006,Weather,strong,Wheat,1,2006 Australian drought — worst in a century; winter wheat failure + Eastern Europe drought.
+36,2006 ethanol boom precursor,2006-09-01,2006-10-31,2006,Policy/Regulation,strong,Corn,1,"RFS1 just implemented, corn prices beginning surge ahead of 2007 expansion."
+37,2007 Easter freeze (wheat),2007-04-01,2007-04-30,2007,Weather,strong,Wheat,1,2007 Easter freeze damaged US winter wheat.
+38,2007 US ethanol mandate surge (RFS2),2007-03-01,2007-10-31,2007,Policy/Regulation,strong,"Corn, Soybean",2,2007 Energy Independence and Security Act expanded Renewable Fuel Standard; corn for ethanol exploded.
+39,2007 global wheat shortage,2007-06-01,2007-10-31,2007,Supply/Demand,strong,Wheat,1,2007 global wheat shortage — tight supplies leading into the food crisis.
+40,2007–08 Global Food Price Crisis,2008-01-01,2008-08-31,2008,Supply/Demand,strong,"Corn, Soybean, Wheat, Soybean_Oil",4,Historic commodity price boom; grains and oils at all-time highs. Global food price crisis.
+41,June 2008 Midwest flooding,2008-06-01,2008-07-31,2008,Weather,strong,Corn,1,Midwest flooding June 2008 damaged corn crop during food-crisis peak.
+42,2008 Financial Crisis commodity collapse,2008-09-01,2010-11-30,2008-2010,Financial/Macro,strong,"Corn, Soybean, Wheat, Cotton, Lumber, Soybean_Oil",6,Global financial crisis triggered commodity-wide collapse; corn and wheat fell >50%. Lumber housing bottom + slow recovery extended through 2010.
+43,Post-crisis recovery + 2009 weather,2009-04-01,2009-11-30,2009,Weather,probable,"Corn, Soybean, Soybean_Oil",3,Crisis-era volatility; summer 2009 weather; late-harvest delays.
+44,2010 Russian heatwave + grain export ban,2010-07-01,2010-11-30,2010,Geopolitics,strong,"Wheat, Corn",2,"2010 Russian drought + historic grain export ban (Aug 5, 2010). Wheat primary impact; corn secondary spillover."
+45,2010–11 Cotton historic highs,2010-11-01,2011-04-30,2010-2011,Supply/Demand,strong,Cotton,1,Pakistan floods destroyed ~2M bales; India export restrictions; China drought/import surge. Cotton hit >$2/lb in March 2011 — highest since US Civil War.
+46,2010–11 grain bull market,2010-11-01,2011-09-30,2010-2011,Supply/Demand,strong,"Corn, Soybean, Wheat",3,Global tight stocks drove grain prices to historic highs; corn hit then-all-time-high $7.87/bu. Continued supply concerns into Sept 2011.
+47,2010–12 housing recovery (lumber),2010-12-01,2012-02-29,2010-2012,Financial/Macro,probable,Lumber,1,US housing recovery volatility post-2008 collapse.
+48,2012 US drought,2012-04-01,2012-09-30,2012,Weather,strong,"Corn, Soybean",2,Most severe US drought since 1988; corn hit new all-time high $8.49/bu.
+49,2013 late planting + harvest,2013-04-01,2013-09-30,2013,Weather,probable,"Corn, Soybean, Lumber",3,2013 wet spring delayed planting; harvest weather volatility.
+50,2014 Russia-Ukraine (Crimea) tensions,2014-07-01,2014-09-30,2014,Geopolitics,probable,Wheat,1,2014 Crimea annexation tensions affecting wheat markets.
+51,2014 Argentina drought / US record soybean crop,2014-08-01,2014-10-31,2014,Weather,strong,"Soybean, Soybean_Oil",2,Argentine drought + record US crop uncertainty.
+52,2015 housing recovery weakness (lumber),2015-04-01,2015-10-31,2015,Financial/Macro,probable,Lumber,1,Housing recovery weakness periods in 2015.
+53,2016 Argentine flooding (soybean),2016-06-01,2016-07-31,2016,Weather,strong,"Soybean, Corn",2,2016 Argentine flooding damaged crops; major soybean rally.
+54,2017–19 Canadian softwood duties + BC wildfires,2018-07-01,2019-08-31,2018-2019,Trade/Tariff,strong,Lumber,1,2017-19 US countervailing + anti-dumping duties on Canadian softwood; BC wildfires 2017-2018 tightened supply.
+55,2018 EU/Russia drought (wheat),2018-08-01,2018-08-31,2018,Weather,probable,Wheat,1,2018 EU and Russia drought affecting wheat.
+56,2019 US late-planting crisis (corn),2019-06-01,2019-07-31,2019,Weather,strong,Corn,1,2019 wettest spring on record delayed US corn planting historically.
+57,2019 coffee dry-weather rally,2019-12-01,2019-12-31,2019,Weather,strong,Coffee,1,Rally off 10-year lows on Brazilian dry-weather forecasts + low global stocks.
+58,2020 COVID-19 demand collapse (sugar),2020-04-01,2020-07-31,2020,Financial/Macro,strong,"Sugar, Corn",2,COVID-19 pandemic demand collapse; sugar hit 12-year low.
+59,2020–22 COVID housing boom / lumber squeeze,2020-03-16,2022-12-31,2020-2022,Financial/Macro,strong,Lumber,1,"COVID-19 housing boom + supply chain crisis; lumber hit all-time high $1,600+/1000bf in May 2021, then historic collapse through 2022."
+60,2021 Renewable diesel boom,2021-03-01,2021-07-31,2021,Biofuel/Energy,strong,Soybean_Oil,1,2021 renewable diesel demand surge drove soybean oil prices dramatically higher.
+61,2021 grain bull market,2021-05-01,2021-07-31,2021,Supply/Demand,strong,"Corn, Soybean",2,Biofuel + China demand drove corn above $7/bu.
+62,2021 Brazil historic coffee frost,2021-07-01,2021-08-31,2021,Weather,strong,Coffee,1,"Historic frost July 19-20, 2021, severely damaged coffee trees in Minas Gerais state, Brazil."
+63,Russia-Ukraine war (Feb 2022+),2022-02-24,2022-09-30,2022,Geopolitics,strong,"Wheat, Corn, Soybean, Soybean_Oil",4,"Russia invaded Ukraine Feb 24, 2022. Historic highs across grains; Ukraine is major sunflower oil producer affecting soy oil via substitution."
+64,2022 India wheat export ban,2022-05-13,2022-06-30,2022,Trade/Tariff,strong,Wheat,1,"India banned wheat exports May 13, 2022, amid war-driven price surge."
+65,2022 Argentine drought (soybean),2022-07-01,2022-09-30,2022,Weather,strong,Soybean,1,2022 Argentine drought affecting major soybean producer.
+66,2022–23 Ukraine war continuing + biofuel uncertainty,2022-11-01,2023-04-30,2022-2023,Geopolitics,strong,"Soybean_Oil, Wheat",2,Ongoing Ukraine war effects + 2023 biofuel policy uncertainty.
+67,Post-COVID housing slowdown (lumber),2023-01-23,2023-05-10,2023,Financial/Macro,strong,Lumber,1,Post-COVID housing slowdown + interest-rate effects.
+68,Black Sea Grain deal collapse,2023-05-15,2023-08-15,2023,Geopolitics,strong,"Corn, Soybean, Wheat",3,"Russia withdrew from Black Sea Grain Initiative July 17, 2023, disrupting grain exports."
+69,2023 EPA final RVO biofuel standards,2023-09-01,2023-12-31,2023,Policy/Regulation,strong,Soybean_Oil,1,Final 2024 EPA Renewable Volume Obligation standards + surging renewable diesel use (3.1 → 5.3B lbs of soybean oil).
+70,2023 post-COVID rate volatility (lumber),2023-11-01,2023-11-30,2023,Financial/Macro,probable,Lumber,1,Post-COVID interest-rate driven lumber volatility.
+71,2024 wheat March WASDE volatility,2024-03-01,2024-03-11,2024,Unknown,probable,Wheat,1,No specific major event confirmed; likely technical bounce around the March 8 WASDE report.
+72,2024 biofuel policy uncertainty (soybean oil),2024-03-01,2024-05-31,2024,Policy/Regulation,strong,Soybean_Oil,1,2024 biofuel policy uncertainty ahead of Blenders → 45Z tax credit transition.
+73,2024 corn pollination-window dryness,2024-06-25,2024-07-15,2024,Weather,strong,Corn,1,Spotty Midwest rainfall during critical pollination window pushed corn futures up.
+74,2024 Biofuel tax credit transition (Blenders → 45Z),2024-06-25,2024-12-31,2024,Policy/Regulation,strong,Soybean_Oil,1,Transition from $1/gal Blenders Tax Credit to much lower 45Z Clean Fuel Production Credit; Treasury guidance delays caused producers to idle. Dominant 2024 biofuel disruption.
+75,2024 Canadian/US lumber mill curtailments,2024-07-12,2024-08-31,2024,Supply/Demand,strong,Lumber,1,"Canadian (Canfor, others) and US mill curtailments/permanent closures tightened supply in summer 2024."
+76,2025 Trump tariffs on Mexico/Canada,2025-02-25,2025-05-31,2025,Trade/Tariff,strong,"Corn, Soybean_Oil",2,Trump 25% tariffs on Mexico/Canada (Feb 2025) + China retaliation crushed 2025 corn gains and disrupted oilseed trade.
+77,Pre-2008 US housing collapse (lumber),2007-10-01,2008-08-31,2007-2008,Financial/Macro,strong,Lumber,1,Subprime mortgage crisis begins; pre-collapse US housing market breakdown affecting lumber demand.
+78,2011 Oats data artifact (flat-run exit),2011-05-01,2011-05-31,2011,Data Artifact,strong,Oats,1,"Exit from a 450-day flat-price run in the raw Oats data (2009-07 to 2011-05). This window is a data artifact, not a real market event. See lumber_findings.md."
+79,1988 soybean-oil pre-drought positioning,1988-01-01,1988-02-28,1988,Weather,probable,Soybean_Oil,1,Early-1988 positioning ahead of the North American drought; market began pricing tight supply.
+80,1990–91 early-decade soy-complex volatility,1990-07-01,1991-11-30,1990-1991,Weather,probable,Soybean_Oil,1,Early-1990s recession plus weather-driven soybean oil volatility.
+81,2003 soybean rust first South American discovery,2003-09-01,2003-11-30,2003,Disease/Pest,strong,Soybean,1,"Asian Soybean Rust confirmed in South America, precursor to 2004 USA discovery."
+82,1999 summer soy weather,1999-07-01,1999-08-31,1999,Weather,probable,Soybean,1,Summer 1999 weather-driven soy volatility.
+83,1996 oats spring weather,1996-04-01,1996-05-31,1996,Weather,probable,Oats,1,Early-season 1996 North American weather affecting oats planting.
+84,2002 Brazilian sugar production record,2002-01-01,2002-05-31,2002,Supply/Demand,probable,Sugar,1,Record Brazilian sugar production 2001-02 drove price volatility.
+85,2006 Brazil ethanol / sugar production dynamics,2006-01-01,2006-02-28,2006,Policy/Regulation,probable,Sugar,1,2005-06 Brazilian ethanol demand / sugar production tension.
+86,2010–11 global sugar deficit,2011-06-01,2011-07-31,2011,Supply/Demand,strong,Sugar,1,2010-11 global sugar deficit from India export restrictions and weather issues.
+87,Post-9/11 wheat dynamics,2001-10-01,2001-10-31,2001,Geopolitics,probable,Wheat,1,Post-9/11 agriculture / trade dynamics affecting wheat.
+88,2009–10 post-crisis wheat recovery volatility,2009-06-01,2010-05-31,2009-2010,Financial/Macro,probable,Wheat,1,Wheat volatility during the post-financial-crisis recovery + pre-Russian-drought build-up.
+89,2020 COVID-era soybean oil demand rebound,2020-09-01,2020-10-31,2020,Financial/Macro,probable,Soybean_Oil,1,COVID-era demand rebound for vegetable oils; renewable diesel story beginning.
+90,2023 biofuel mandate speculation (soybean oil),2023-05-01,2023-08-31,2023,Policy/Regulation,strong,Soybean_Oil,1,Speculation around 2024 biofuel mandates ahead of final RVO standards.
+91,2015 corn winter weather,2015-01-01,2015-01-31,2015,Weather,probable,Corn,1,Early-2015 corn market volatility; no discrete news event confirmed.
+92,2025 Lumber late-summer volatility,2025-08-01,2025-09-30,2025,Unknown,probable,Lumber,1,Late-summer 2025 lumber volatility; no discrete confirmed event.
